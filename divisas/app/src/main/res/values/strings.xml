@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">divisas</string>
+    <string name="valor">Ingrese el valor</string>
+    <string name="moneda">Moneda</string>
+    <string name="button">Convertir</string>
+    <string-array name="divisas">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Peso</item>
+    </string-array>
+</resources>
